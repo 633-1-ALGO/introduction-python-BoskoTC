@@ -4,3 +4,8 @@
 
 a = 11
 b = 42
+
+a,b = b,a
+
+print(a)
+print(b)
